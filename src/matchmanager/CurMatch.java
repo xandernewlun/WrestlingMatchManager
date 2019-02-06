@@ -10,4 +10,10 @@ public class CurMatch {
 	 * Change Names
 	 * Change MatchInfo
 	 */
+	public CurMatch() {
+		
+	}
+	public static void testFun() {
+		System.out.println("TEST");
+	}
 }
